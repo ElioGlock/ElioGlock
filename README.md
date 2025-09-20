@@ -1,4 +1,4 @@
-# Hello World
+# Hello World !
 
 Welcome to my profile! This is a space where I share my projects, studies, and passion for technology.
 
@@ -27,4 +27,11 @@ Here are some of the technologies and tools I've been working with:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elio-alves5642) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliojunior0108@gmail.com)
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElioGlock/ElioGlock/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElioGlock/ElioGlock/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ElioGlock/ElioGlock/output/github-contribution-grid-snake.svg">
+</picture>
 
