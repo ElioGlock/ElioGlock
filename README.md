@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello World
 
-<!--
-**ElioGlock/ElioGlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! This is a space where I share my projects, studies, and passion for technology.
 
-Here are some ideas to get you started:
+I am a developer and enthusiast in Software and Hardware Development. My goal is to apply my knowledge to create efficient and innovative solutions that can positively impact day-to-day life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently a second-semester Computer Engineering student.
+- I’m always learning about new technologies and improving my skills.
+- I have a special interest in Automation, Web Scraping, Data Analysis, and AI.
+- How to reach me: eliojunior0108@gmail.com 
+
+---
+
+### 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I've been working with:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+---
+
+### 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elio-alves5642) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliojunior0108@gmail.com)
+
