@@ -7,7 +7,7 @@ I am a 19 years old developer and enthusiast in Software and Hardware Developmen
 - I’m currently a second-semester Computer Engineering student.
 - I’m always learning about new technologies and improving my skills.
 - I have a special interest in Automation, Web Scraping, Data Analysis, and AI.
-- How to reach me: eliojunior0108@gmail.com 
+- How to reach me: eliosilva12356@gmail.com
 
 ---
 
