@@ -2,7 +2,7 @@
 
 Welcome to my profile! This is a space where I share my projects, studies, and passion for technology.
 
-I am a developer and enthusiast in Software and Hardware Development. My goal is to apply my knowledge to create efficient and innovative solutions that can positively impact day-to-day life.
+I am a 19 years old developer and enthusiast in Software and Hardware Development. My goal is to apply my knowledge to create efficient and innovative solutions that can positively impact day-to-day life.
 
 - I’m currently a second-semester Computer Engineering student.
 - I’m always learning about new technologies and improving my skills.
